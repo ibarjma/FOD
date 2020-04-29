@@ -1,0 +1,9 @@
+1 5 7 40000 Televisor 4k
+2 3 6 16000 heladera whirpool
+3 2 6 5000 Tostadora Philips
+4 4 8 10000 Pava Eléctrica Noga
+6 7 4 4232 Aire acondicionado
+7 3 56 1332 Multiprocesadora
+8 3 25 4321 Batidora
+9 6 34 2345 Reproductor de DVD
+10 6 3 23455 computadora

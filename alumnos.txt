@@ -1,0 +1,10 @@
+1 12 4 Diego
+Torres
+2 4 4 Anahi
+Garcia
+3 6 8 Manuel
+Acosta
+4 10 5 Juan
+Aguirre
+5 2 8 Fulano
+X
